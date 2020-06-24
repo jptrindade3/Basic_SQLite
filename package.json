@@ -1,0 +1,26 @@
+{
+  "name": "Basic_SQLite",
+  "version": "1.0.0",
+  "description": "Um sistema base que faz uso do Knex como querry builder para fazer requisições e trabalhar com o banco SQLite fazendo uso do NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jptrindade3/Basic_SQLite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jptrindade3/Basic_SQLite/issues"
+  },
+  "homepage": "https://github.com/jptrindade3/Basic_SQLite#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
